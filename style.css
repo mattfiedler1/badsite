@@ -1,0 +1,25 @@
+
+body {
+	background-color: #ADD8E6;
+	color: #B5651D;
+	font-size: 18px;
+	font-family: Helvetica;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+#header {
+	background-color: #0000FF60;
+	color: #FFFFFF;
+	font-family: "Times";
+	text-align: center;
+	margin-left: 1%;
+	margin-right:1%;
+}
+
