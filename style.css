@@ -40,6 +40,8 @@ ul {
 img{
 	display: block;
 	margin: auto;
+	height: 40%;
+	width: 40%;
 }
 
 .no_tab {
